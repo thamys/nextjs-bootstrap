@@ -1,0 +1,18 @@
+.componentSection {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.carouselContainer {
+  width: 100%;
+  max-width: 600px;
+  overflow: hidden;
+  min-height: 400px; /* Define uma altura mínima */
+}
+
+.carouselContainer img {
+  width: 100%;
+  height: auto;
+}
